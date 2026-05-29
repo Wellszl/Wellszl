@@ -21,7 +21,7 @@ Atualmente em transição para a área de dados, com foco em me tornar analista 
 
 ## 🎓 Formação
 
-🏛️ **FMU — Faculdades Metropolitanas Unidas (Liberdade)**
+🏛️ **FMU - Faculdades Metropolitanas Unidas (Liberdade)**
 Bacharelado em **Sistemas de Informação** · Em andamento (previsão de término: 06/2029)
 
 ---
@@ -37,6 +37,7 @@ Bacharelado em **Sistemas de Informação** · Em andamento (previsão de térmi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="SQL / PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" title="Power BI"/>
 </p>
 
 **Backend & Outros**
