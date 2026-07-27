@@ -13,9 +13,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de Sistemas de Informação na FMU, construindo base sólida em Python, SQL e análise de dados. Venho de experiência em ambiente operacional e industrial, o que me deu visão prática de processos, organização de informações e trabalho em equipe.
+Estudante de Sistemas de Informação na FMU, construindo base sólida em Python, SQL e análise de dados.
 
-Atualmente em transição para a área de dados, com foco em me tornar analista e, no longo prazo, engenheiro de dados.
+Atualmente em transição para a área de dados, com foco em me tornar analista e, no longo prazo, cientista de dados.
 
 ---
 
