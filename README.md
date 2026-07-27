@@ -67,9 +67,6 @@ Bacharelado em **Sistemas de Informação** · Em andamento (previsão de térmi
   <i>"A melhor forma de aprender é construindo."</i>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" width="48%"/>
-
 <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyb2M0aWlobzBjZHBicHl1ZGZqZ3R2eG1ucDNpazhkODhjb251OGU0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mJBtZUG7kSGpI3fKX1/200.gif" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=120&section=footer" width="100%"/>
