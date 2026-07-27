@@ -40,13 +40,6 @@ Bacharelado em **Sistemas de Informação** · Em andamento (previsão de térmi
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" title="Power BI"/>
 </p>
 
-**Backend & Outros**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
-</p>
-
 **Ferramentas**
 
 <p>
@@ -73,6 +66,9 @@ Bacharelado em **Sistemas de Informação** · Em andamento (previsão de térmi
 <div align="center">
   <i>"A melhor forma de aprender é construindo."</i>
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" width="48%"/>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyb2M0aWlobzBjZHBicHl1ZGZqZ3R2eG1ucDNpazhkODhjb251OGU0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mJBtZUG7kSGpI3fKX1/200.gif" width="100%"/>
 
