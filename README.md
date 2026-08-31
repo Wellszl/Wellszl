@@ -49,17 +49,6 @@ Bacharelado em **Sistemas de Informação** · Em andamento (previsão de térmi
   <img src="https://img.icons8.com/color/48/microsoft-office-2019.png" width="40" title="Microsoft Office"/>
 </p>
 
----
-
-<div align="center">
-
-## 🚀 Aprendendo agora
-
-![Python](https://img.shields.io/badge/Python%20para%20Dados-ESTUDANDO-7F77DD?style=for-the-badge&labelColor=3C3489)
-![SQL](https://img.shields.io/badge/SQL%20do%20Zero%20ao%20Avançado-PRATICANDO-534AB7?style=for-the-badge&labelColor=26215C)
-![Excel](https://img.shields.io/badge/Excel%20para%20Análise-EXPLORANDO-AFA9EC?style=for-the-badge&labelColor=534AB7)
-
-</div>
 
 ---
 
